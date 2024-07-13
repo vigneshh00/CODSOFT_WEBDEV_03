@@ -1,3 +1,3 @@
 # ARITHMETIC CALCULATOR
 
-Click here to view the webpage : https://github.com/vigneshh00/CODSOFT_WEBDEV_CALC/
+Click here to view the webpage : https://vigneshh00.github.io/CODSOFT_WEBDEV_CALC/
